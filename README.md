@@ -43,3 +43,9 @@ Some simulated circuits in [http://falstad.com/circuit/circuitjs.html](http://fa
 - [Dimmer for LEDS](circuits/dimmerWithMosfet.txt). Dimmer for LEDS with MOSFET and two buttons. [https://www.youtube.com/watch?v=ZaNC6L9392s](https://www.youtube.com/watch?v=ZaNC6L9392s)
 
 - [Control a load with MOSFET](circuits/control-load-one-button.txt). Control a load with MOSFET and one button. [https://www.youtube.com/watch?v=tCpoz2PlXro](https://www.youtube.com/watch?v=tCpoz2PlXro)
+
+
+- [Timer with Off Delay](circuits/control-load-oamp-timer.txt). Control a load with oamp with timer. [https://www.youtube.com/watch?v=ah44p-iKLv0](https://www.youtube.com/watch?v=ah44p-iKLv0)
+
+- [Simple cirucuit for LEDs in diorama](circuits/leds-diorama.txt). Use a couple of leds.
+
